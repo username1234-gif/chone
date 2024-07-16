@@ -30,10 +30,10 @@ Hacia el norte de la ciudad, en la vía a El Carmen, se encuentra el sitio La Di
         <table border="3px">
            <tr>
           <td>CHONE</td>
-          <td><a href="https://username1234-gif.github.io/SitioGegr-fico/">SITIO GEOGRÁFICO</a></td>
-          <td><a href="https://username1234-gif.github.io/SitioTuristico/">SITIOS TURÍSTICOS</a></td>
-          <td><a href="https://username1234-gif.github.io/Costumbres/">COSTÚMBRES</a></td>
-          <td><a href="https://username1234-gif.github.io/Galeria/">GALERIA CHONE</a></td>
+          <td><a href="C:\Users\Mirella Yagual\OneDrive\Desktop\tareas de diseño\Farias Chone">SITIO GEOGRÁFICO</a></td>
+          <td><a href="C:\Users\Mirella Yagual\OneDrive\Desktop\tareas de diseño\Farias Chone">SITIOS TURÍSTICOS</a></td>
+          <td><a href="C:\Users\Mirella Yagual\OneDrive\Desktop\tareas de diseño\Farias Chone">COSTÚMBRES</a></td>
+          <td><a href="C:\Users\Mirella Yagual\OneDrive\Desktop\tareas de diseño\Farias Chone">GALERIA CHONE</a></td>
          </tr>
         </table>
  </body>
